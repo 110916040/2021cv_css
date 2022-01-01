@@ -1,0 +1,22 @@
+h1{
+    color:cornflowerblue;
+    text-align: center;
+    font-size: 5vw;
+}
+.table_center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+p{
+    text-align: center;
+    font-size: 1.5vw;
+}
+div{
+    width: fit-content;
+}
